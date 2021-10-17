@@ -1,0 +1,11 @@
+
+  189  man ls
+  190  ls
+  191  ls -a
+  192  ls -R
+  193  cd unix
+  194  ls
+  195  wc exo1.txt
+  196  wc -l exo1.txt
+  197  wc -m exo1.txt
+  198  history >> exo2.txt
